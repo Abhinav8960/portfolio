@@ -72,6 +72,11 @@ ABOUT
     font-size: 20px;
 }
 
+#about .email a{
+    color: rgb(244, 115, 115);
+    text-decoration: none;
+}
+
 #about .icons{
     margin-top: 20px;
     font-size: 30px;
